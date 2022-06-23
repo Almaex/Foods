@@ -1,0 +1,138 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Clouds",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 20,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "cloud1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -465.206,
+                181.314,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                477.298,
+                181.314,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "cloud4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                452.221,
+                756,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -487.051,
+                756,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "cloud2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                474.964,
+                400,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -482.623,
+                388.629,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "cloud3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -481.905,
+                645,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                481.188,
+                645,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}
